@@ -6,11 +6,12 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Function5Activity">
+    tools:context=".Function5Activity"
+    android:background="@drawable/grocerylistmain">
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is function 5 Barun" />
+        android:text="this is function  5 activity" />
 </LinearLayout>
